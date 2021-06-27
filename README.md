@@ -5,6 +5,7 @@ Klasifikasi air layak minum menggunakan Support Vector Machine
 - Eksplorasi Data
 - Menangani Missing Value
 - Normalisasi Data
+- Splitting dataset
 - Tuning hyperparameter
 - Klasifikasi SVM
 - Evaluasi
