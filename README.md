@@ -1,11 +1,12 @@
 # WaterPotability_SVM
 Klasifikasi air layak minum menggunakan Support Vector Machine
+Water potability classification using Support Vector MAchine
 
-## Proses Data Mining
-- Eksplorasi Data
-- Menangani Missing Value
-- Normalisasi Data
+## Data Mining Process
+- Data Exploration
+- Handling Missing Value
+- Data Normalization
 - Splitting dataset
 - Tuning hyperparameter
-- Klasifikasi SVM
-- Evaluasi
+- SVM Classification
+- Evaluation
