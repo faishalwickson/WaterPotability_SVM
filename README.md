@@ -1,5 +1,4 @@
 # WaterPotability_SVM
-Klasifikasi air layak minum menggunakan Support Vector Machine
 Water potability classification using Support Vector MAchine
 
 ## Data Mining Process
