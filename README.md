@@ -1,5 +1,5 @@
 # WaterPotability_SVM
-Water potability classification using Support Vector MAchine
+Water potability classification using Support Vector Machine
 
 ## Data Mining Process
 - Data Exploration
